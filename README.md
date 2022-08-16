@@ -2,7 +2,7 @@
 
 I'm **Camilla**, a brazilian food engineer graduated from Unicamp 😄
 
-Currently learning HTML, CSS and JavaScript 💻
+Currently studying to become a full stack developer 💻
 
 You can find me at:
 
