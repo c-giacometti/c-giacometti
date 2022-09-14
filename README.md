@@ -8,7 +8,7 @@ Some (fun?) facts about me:
 - These days i'm a gratuated **food engineer** working in **supply chain** :smiley:
 - I'm currently studying to become a **full stack developer**
 
-### Languages, technologies & Tools:
+### Languages, Technologies & Tools:
 
 
 <div>
